@@ -1,3 +1,6 @@
+THIS CRATE HAS BEEN MOVED INTO THE rs_lalr1_parsers WORKSPACE AND THIS REPOSITORY WILL BE DELETED IN THE NEAR FUTURE
+
+
 # Augmented Lexical Analyzer and Parser Generator
  
 **alapgen** is an augmented lexical analyser and parser generation
